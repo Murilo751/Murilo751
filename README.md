@@ -14,21 +14,24 @@
 - 📚 I'm Analysis and Systems Development Student
 
 <br/>
+<br/>
+
 
 - 🌱I’m currently learning Python
 
+<br/>
 <br/>
 
 - 📫 How to reach me murilo.matos2005@gmail.com
 
 <br/>
+<br/>
 
 - ⚡ Fun fact I like capybaras
 
 <br/>
+<br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilo751&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="murilo751" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilo751&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="murilo751" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murilo751&show_icons=true&locale=en" alt="murilo751" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murilo751&" alt="murilo751" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murilo751&show_icons=true&theme=tokyonight&locale=en" alt="murilo751" /></p>
