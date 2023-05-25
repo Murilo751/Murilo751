@@ -22,7 +22,7 @@
 <br/>
 <br/>
 
-- 📫 How to reach me murilo.matos2005@gmail.com
+- 📫 How to reach me <a>murilo.matos2005@gmail.com</a>
 
 <br/>
 <br/>
