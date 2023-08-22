@@ -31,9 +31,3 @@
 
 <br/>
 <br/>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murilo751&show_icons=true&theme=tokyonight&locale=en" alt="murilo751" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilo751&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="murilo751" /></p>
-
