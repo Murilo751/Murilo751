@@ -50,6 +50,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Murilo751&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/Murilo751/Murilo751/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Murilo751/Murilo751/workflow/snake.svg" alt="Snake animation" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
