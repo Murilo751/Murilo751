@@ -1,8 +1,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=500&size=30&duration=4000&pause=1000&color=F7F3C2&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+guys!+++;I'm+Murilo+Matos+Arag%C3%A3o" alt="Typing SVG" /></a>
 # 💫 About Me:
-📚 I'm Analysis and Systems Development Student<br>👯 I’m looking to collaborate on API projects<br>🌱 I’m currently learning Spring Boot<br>⚡ Fun fact I like capybaras
-
+📚 I'm Analysis and Systems Development Student<br>👯 I’m looking to collaborate on API projects<br>🌱 I’m currently learning Spring Boot<br>⚡ Fun fact! This dog in my profile photo is Loki (My dog)
 # 💻 Languages and Tools:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
